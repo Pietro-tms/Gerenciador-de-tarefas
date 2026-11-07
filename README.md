@@ -1,7 +1,28 @@
 # Gerenciador de Tarefas
 
-Aplicação desenvolvida em JavaScript para gerenciamento simples de tarefas do dia a dia. A plataforma permite adicionar, visualizar e remover tarefas por meio de uma interface prática e intuitiva, auxiliando na organização de atividades.
+Aplicação web simples para organizar tarefas do dia a dia.
 
-O projeto foi construído utilizando HTML, CSS e JavaScript, com foco na prática de manipulação do DOM, tratamento de eventos e gerenciamento de estado da interface. As alterações realizadas pelo usuário são refletidas dinamicamente na página, proporcionando uma experiência fluida e interativa.
+## Funcionalidades
 
-Este projeto foi desenvolvido com o objetivo de consolidar conceitos fundamentais do desenvolvimento web, incluindo lógica de programação, organização de código e construção de interfaces responsivas utilizando JavaScript puro.
+- Adicionar tarefas com título e descrição
+- Visualizar as tarefas cadastradas
+- Remover tarefas da lista
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## Como executar
+
+```bash
+git clone https://github.com/Pietro-tms/Gerenciador-de-tarefas.git
+cd Gerenciador-de-tarefas
+```
+
+Abra o arquivo `index.html` no navegador.
+
+## Observação
+
+As tarefas ficam apenas na memória da página e são perdidas ao recarregá-la.
